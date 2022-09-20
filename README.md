@@ -11,10 +11,8 @@
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwind-css&message=Tailwind%20CSS&label=&color=38B2AC&labelColor=000000)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=FFE873&labelColor=FFE873)
 <br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
 <br/>
