@@ -22,17 +22,6 @@
 
 <br/>
 
-## &#x1f4c8; GitHub Stats
-
-<p align="center">
-<a href="https://github.com/ronan696">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexGioffDev&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/ronan696">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGioffDev&layout=compact&theme=great-gatsby" />
-</a>
-</p>
-<hr/>
 
 ### 📫 &nbsp; Contact me:
 
